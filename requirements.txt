@@ -1,0 +1,9 @@
+jieba==0.39 
+lexrank==0.1.0 
+numpy==1.14.0 
+django==2.1.4 
+pandas==0.22.0 
+requests==2.18.4 
+simplejson==3.16.0 
+networkx==2.1
+textrank4zh==0.3
